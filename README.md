@@ -3,7 +3,7 @@
 ## Team Members
 - tasnimislamraisa (Team Leader)
 - Rafi076
-- farhadfoysal
+- farhadfoysal (Farhad Foysal)
 
 ## Mentor
 - chisty2996
